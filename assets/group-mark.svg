@@ -1,0 +1,7 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CPA International Group mark">
+  <circle cx="32" cy="32" r="30.5" fill="none" stroke="#2A3C7E" stroke-width="2"></circle>
+  
+  <ellipse cx="32" cy="32" rx="11" ry="22" fill="none" stroke="#2A3C7E" stroke-width="3.4" transform="rotate(-32 32 32)"></ellipse>
+  <ellipse cx="32" cy="32" rx="11" ry="22" fill="none" stroke="#FFCE00" stroke-width="3.4" transform="rotate(32 32 32)"></ellipse>
+  <circle cx="32" cy="32" r="3.4" fill="#2A3C7E"></circle>
+</svg>
